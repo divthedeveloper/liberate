@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'JaapokkisubtractRegular';
+  src: url('JaapokkisubtractRegular.eot');
+  src: url('JaapokkisubtractRegular.woff2') format('woff2'),
+       url('JaapokkisubtractRegular.woff') format('woff'),
+       url('JaapokkisubtractRegular.ttf') format('truetype'),
+       url('JaapokkisubtractRegular.svg#JaapokkisubtractRegular') format('svg'),
+       url('JaapokkisubtractRegular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

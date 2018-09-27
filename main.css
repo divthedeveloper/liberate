@@ -1,0 +1,237 @@
+body {
+    overflow-x: hidden;
+    text-decoration: none;
+    font-family: "Jaapokki-Regular"!important;
+    letter-spacing: .1em;
+    min-height: 100vh!important;
+}
+.wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+a {
+    text-decoration: none!important;
+}
+.topbar {
+    text-align: center;
+    padding: 1.5em 1.5em;
+    text-transform: uppercase;
+}
+.side-navbar {
+    background-color: transparent;
+    position: fixed;
+    color: white;
+    width: 20vw;
+    height: fill;
+    overflow: hidden;
+}
+.side-navbar li {
+    position: relative;
+    padding: 1em 1em;
+}
+
+.side-navbar li a{
+    text-decoration: none;
+    color: black;
+}
+.social {
+    margin-left: .5em;
+    margin-right: .5em;
+}
+footer {
+    color: white;
+    position: absolute;
+    width: 100vw;
+    padding-left: 10em;
+    padding-right: 10em;
+    flex: 1;
+}
+.slideimage {
+    width: 100%;
+    height: 40vw!important;
+}
+.linker {
+    border-radius: 25px;
+    color: #333!important;
+    background-color: white;
+    border-color: transparent;
+    letter-spacing: 0.15em;
+    padding-bottom: 0.75em;
+    padding-top: 0.75em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-transform: uppercase;
+}
+.linker:focus {
+  outline: none;
+}
+
+footer {
+    padding-bottom: 4em;
+    padding-top: 2em;
+    background-color: #000!important;
+}
+.logo {
+    font-family: "Jaapokki-Subtract"!important;
+    color: black!important;
+}
+span {
+    margin-left: .5em;
+}
+.carousel-caption {
+    top: 60%;
+    transform: translateY(-60%);
+    bottom: initial;    
+}
+.item {
+    -webkit-transform-style: preserve-3d;
+-moz-transform-style: preserve-3d;
+transform-style: preserve-3d;
+
+}
+.subsection {
+    width: 20vw;
+    height: 25vw;
+    background-size: 100%;
+    color: white!important;
+    text-transform: lowercase;
+    margin: 1em;
+    border: none;
+    border-radius: 3px;
+    transition: all ease-in-out 0.3s;
+    transform: scale(1, 1);
+}
+
+.subsection:hover {
+    transform: scale(1.05, 1.05);
+    transition: all ease-in-out 0.3s;
+}
+
+#coffee {
+    background-image: url("images/coffee.jpg");
+}
+#chocolate {
+    background-image: url("images/chocolate.jpg");
+}
+#produce {
+    background-image: url("images/produce.jpg");
+}
+#snack {
+    background-image: url("images/snack.jpg");
+}
+#breakfast {
+    background-image: url("images/breakfast.jpg");
+}
+#drink {
+    background-image: url("images/drink.jpg");
+}
+#tops {
+    background-image: url("images/tops.jpg");
+}
+#bottoms {
+    background-image: url("images/bottoms.jpg");
+}
+#outerwear {
+    background-image: url("images/outerwear.jpg");
+}
+#shoes {
+    background-image: url("images/shoes.jpg");
+}
+#bags {
+    background-image: url("images/bags.jpg");
+}
+#accessories {
+    background-image: url("images/accessories.jpg");
+}
+#skin {
+    background-image: url("images/skin.jpg");
+}
+#hair {
+    background-image: url("images/hair.jpg");
+}
+#makeup {
+    background-image: url("images/makeup.jpg");
+}
+#peru-cajamarca {
+    background-image: url("images/peru-cajamarca.png");
+    width: auto;
+    height: auto;
+}
+#coffee2 {
+    background-image: url("images/coffee2.png");
+    width: auto;
+    height: auto;
+}
+#coffee3 {
+    background-image: url("images/coffee3.png");
+    width: auto;
+    height: auto;
+}
+#coffee4 {
+    background-image: url("images/coffee4.png");
+    width: auto;
+    height: auto;
+}
+.main {
+    margin-bottom: 2vh;
+}
+.imghead {
+    background-image: url("/images/asian-farm.jpg")!important;
+    background-size: 100%;
+    height: 25vh!important;
+}
+.titletext {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+.navlink {
+    color: black;
+}
+.buttonheads {
+    color: white!important;
+}
+.shopitem {
+    height: 30vh!important;
+}
+
+
+.cof-btn {
+    margin: 15px;
+    border: 2.2px solid rgba(0,0,0,0.6);
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: all ease-in-out 0.3s;
+    color: rgba(0,0,0,0.8);
+    
+}
+
+.cof-btn:hover {
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+        transition: all ease-in-out 0.3s;
+
+}
+.aboutimg {
+    background-image: url("./images/aboutimg.jpg")!important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: auto;
+    height: auto;
+    padding: 3em!important;
+    border-radius: 3px!important;
+    margin: 0;
+}
+
+.aylasanerd {
+    border-radius: 7px;
+    padding: 0 0 2em 0;
+    border: 5px solid #ccc;
+}
+
+.abouttext {
+    padding: 2em;
+}

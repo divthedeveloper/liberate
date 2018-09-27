@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Jaapokki-Regular';
+  src: url('../Jaapokki/Jaapokki-Regular/Jaapokki-Regular.eot');
+  src: url('../Jaapokki/Jaapokki-Regular/Jaapokki-Regular.woff2') format('woff2'),
+       url('../Jaapokki/Jaapokki-Regular/Jaapokki-Regular.woff') format('woff'),
+       url('../Jaapokki/Jaapokki-Regular/Jaapokki-Regular.ttf') format('truetype'),
+       url('../Jaapokki/Jaapokki-Regular/Jaapokki-Regular.svg#Jaapokki-Regular') format('svg'),
+       url('../Jaapokki/Jaapokki-Regular/Jaapokki-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Jaapokki-Subtract';
+  src: url('../Jaapokki/Jaapokki-Subtract/JaapokkisubtractRegular.eot');
+  src: url('../Jaapokki/Jaapokki-Subtract/JaapokkisubtractRegular.woff2') format('woff2'),
+       url('../Jaapokki/Jaapokki-Subtract/JaapokkisubtractRegular.woff') format('woff'),
+       url('../Jaapokki/Jaapokki-Subtract/JaapokkisubtractRegular.ttf') format('truetype'),
+       url('../Jaapokki/Jaapokki-Subtract/JaapokkisubtractRegular.svg#JaapokkisubtractRegular') format('svg'),
+       url('../Jaapokki/Jaapokki-Subtract/JaapokkisubtractRegular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
